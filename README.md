@@ -1,5 +1,5 @@
 # Boston PBPK/PD Workshop September 2019
-## Advanced PK-Sim® &amp; MoBi® (OSP Suite) workshop on PBPK/PD of Small Molecules and Antibodies
+## PK-Sim® &amp; MoBi® (OSP Suite) workshop on PBPK/PD of Small Molecules and Antibodies
 
 esqLABS is running an advanced one-day hands-on **PK-Sim® & MoBi®** workshop on **PPBPK/PD of Small Molecules and Antibodies** on **Thursday 19th of September** at the **Workbar (Big Bang Room), 45 Prospect St, Cambridge, MA 02139, USA** follwing the Boston QSP Meeting. The workshop covers concepts and application of combining PK-Sim, MoBi and R to build your very own digital platforms for the prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic. During hands-on exercises you will learn how to:
 
