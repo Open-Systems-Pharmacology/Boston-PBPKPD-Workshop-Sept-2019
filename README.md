@@ -24,22 +24,26 @@ Registration includes coffee- and lunch breaks.
 
 ## AGENDA
 
-As a use-case for above learnings, we will develop a PB-QSP model for naked antibody pre-treatment (nAb) for antibody-drug conjugates (ADC) treatment of tumor growth, in detail:
+As use-cases for above learnings, we will 
+ - model and simulate drug-drug interactions with midazolam and itraconazoile
+ - build a PBPK/PD model for use of antibody-drug conjugate (ADC) in tumor treatment
+in detail:
 
 | Time (Thursday September 19) | Topic |
 | ------------- | ------------- |
 | 9:00 | Welcome and getting everyone started |
 | 9:15 | **Lecture**: Introduction to PK-Sim® & MoBi® |
-| 9:30 | **Hands-On**: Building an ADC PBPK model |
-| 10:00 | **Coffee Break** |
-| 10:15 | **Hands-On**: Introduction to mechanistic modeling with MoBi: Target-Mediated Drug Disposition |
-| 11:15 | **Hands-On**: Tumor growth modeling |
-| 12:00 | **Lunch Break** |
-| 13:00 | **Lecture**: Parameter Identification using PK-Sim® and Mobi® |
-| 13:30 | **Hands-On**: Parameter Identification |
-| 14:00 | **Coffee Break** |
-| 14:15 | **Hands-On**: nAb / ADC tumor treatment (PD-Effect) |
-| 15:45 | **Hands-On / Demo**: Running simulations with the OSP Suite R-Toolbox in R |
+| 9:45 | **Hands-On**: Building small molecule and mAb/ADC PBPK models in PK-Sim®|
+| 10:15 | **Lecture**: Parameter Identification using PK-Sim® and Mobi® |
+| 10:30 | **Coffee Break** |
+| 10:45 | **Hands-On**: Parameter Identification |
+| 11:15 | **Lecture**: PBPK concepts: Drug-drug interactions (DDI) with PK-Sim® |
+| 11:45 | **Hands-On**: Modeling drug-drug interactions (DDI) with PK-Sim® |
+| 12:30 | **Lunch Break** |
+| 13:30 | **Hands-On**: Introduction to mechanistic modeling with MoBi: Target-Mediated Drug Disposition |
+| 14:00 | **Hands-On**: Tumor growth and tumor treatment modeling |
+| 15:15 | **Coffee Break** |
+| 15:30 | **Hands-On / Demo**: Running simulations with the OSP Suite R-Toolbox in R |
 | 16:30 | Wrap-up and Q & A |
 | 17:00 | **END** |
 
