@@ -16,9 +16,9 @@ While the workshop does not require any prior experience with PK-Sim® & MoBi®,
 
 ## REGISTRATION
 
-To register for the workshop, please (... to be updated)
+To register for the workshop, please visit [EventBrite](https://www.eventbrite.com/e/pk-sim-mobi-osp-suite-workshop-on-pbpkpd-of-small-molecules-and-antibodies-registration-66769568577).
 
-The workshop is currently restricted to 40 participants.
+The workshop is currently restricted to 15 participants.
 
 Registration includes coffee- and lunch breaks.
 
