@@ -16,7 +16,7 @@ While the workshop does not require any prior experience with PK-Sim® & MoBi®,
 
 ## REGISTRATION
 
-To register for the workshop, please do so via your **Registration for ACoP 10** on www.go-acop.org.
+To register for the workshop, please (... to be updated)
 
 The workshop is currently restricted to 40 participants.
 
